@@ -13,5 +13,6 @@ import BottomNavAnimation from './src/BottomNavAnimation';
 import AnimatedBtnLoaderAnimation from './src/AnimatedBtnLoaderAnimation';
 import CardFlipAnimation from './src/CardFlipAnimation';
 import FloatingMenuAnimation from './src/FloatingMenuAnimation';
+import InterpolateAnimation from './src/InterpolateAnimation';
 
-AppRegistry.registerComponent(appName, () => FloatingMenuAnimation);
+AppRegistry.registerComponent(appName, () => InstaHeartAnimation);
